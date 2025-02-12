@@ -1,0 +1,31 @@
+{
+	"products": [
+		{
+			"name": "Spring Onions",
+			"price": 17.99,
+			"discounted_price": 14.99,
+			"quantity": 10,
+			"quantity_unit": "units",
+			"brief_explanation": "This product offers a significant discount, making it a good value for those needing a larger quantity of spring onions.",
+			"pros": [
+				"Lower price per unit compared to the original price.",
+				"Great option for bulk purchase."
+			],
+			"cons": ["Higher upfront cost.", "Limited time offer."]
+		},
+		{
+			"name": "Spring Onions",
+			"price": 9.99,
+			"discounted_price": 5.99,
+			"quantity": 6,
+			"quantity_unit": "units",
+			"brief_explanation": "This product is ideal for customers who need a smaller quantity and want to take advantage of a limited offer.",
+			"pros": ["Lower overall cost.", "Good for smaller households."],
+			"cons": [
+				"Higher price per unit compared to the larger quantity.",
+				"Offer limited to the first 50 customers."
+			]
+		}
+	],
+	"recommend_meter": 50
+}
